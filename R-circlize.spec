@@ -4,7 +4,7 @@
 #
 Name     : R-circlize
 Version  : 0.4.13
-Release  : 48
+Release  : 49
 URL      : https://cran.r-project.org/src/contrib/circlize_0.4.13.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/circlize_0.4.13.tar.gz
 Summary  : Circular Visualization
@@ -37,10 +37,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1640907181
+export SOURCE_DATE_EPOCH=1640988558
 
 %install
-export SOURCE_DATE_EPOCH=1640907181
+export SOURCE_DATE_EPOCH=1640988558
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
