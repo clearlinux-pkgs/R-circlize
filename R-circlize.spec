@@ -4,7 +4,7 @@
 #
 Name     : R-circlize
 Version  : 0.4.15
-Release  : 58
+Release  : 59
 URL      : https://cran.r-project.org/src/contrib/circlize_0.4.15.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/circlize_0.4.15.tar.gz
 Summary  : Circular Visualization
